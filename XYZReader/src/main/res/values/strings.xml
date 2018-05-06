@@ -8,5 +8,7 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="font_start_tag"> by &lt;font color=\'#ffffff\'&gt;</string>
+    <string name="font_end_tag">&lt;/font&gt;</string>
 
 </resources>
